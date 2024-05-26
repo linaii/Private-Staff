@@ -13,13 +13,22 @@ Sitemap Page: ![Sitemap Page](https://github.com/linaii/Private-Staff/assets/104
 
 # Admin Side
  Login admin Page: 
+ 
  ![image](https://github.com/linaii/Private-Staff/assets/104179292/ca19438e-2295-4384-b242-1b7e7cdbd4fd)
+ 
  Add Service Page:
+ 
  ![image](https://github.com/linaii/Private-Staff/assets/104179292/cb9085a4-0889-489f-8ad6-7e8aec9871af)
+ 
  View Services Page: 
+ 
  ![image](https://github.com/linaii/Private-Staff/assets/104179292/03441133-3352-4fb8-8b19-5d2fe5fe39f0)
+ 
  Add Review Page:
+ 
  ![image](https://github.com/linaii/Private-Staff/assets/104179292/2420e8c6-4c5b-4e15-b19c-691bf728e932)
+ 
  View Reviews Page: 
+ 
  ![image](https://github.com/linaii/Private-Staff/assets/104179292/e26fcbde-5320-48d5-85d2-f68f6e7c1711)
 
